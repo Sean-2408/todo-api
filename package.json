@@ -1,0 +1,27 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "Task List API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sean-2408/todo-api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Sean Ballantyne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sean-2408/todo-api/issues"
+  },
+  "homepage": "https://github.com/Sean-2408/todo-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
